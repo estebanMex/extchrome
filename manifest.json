@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name":"extention chrome",
+	"version": "1.0", 
+	"name": "Ma Première Extension", 
+	"description": "La première extension que j'ai faite.", 
+	"browser_action" : {
+        "default_popup" : "dire_bonjour.html",
+	"default_icon" : "icone.png"
+       }
+}
